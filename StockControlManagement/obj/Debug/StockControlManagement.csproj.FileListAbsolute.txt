@@ -1,0 +1,9 @@
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\bin\Debug\StockControlManagement.exe.config
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\bin\Debug\StockControlManagement.exe
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\bin\Debug\StockControlManagement.pdb
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.csprojResolveAssemblyReference.cache
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.Form1.resources
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.Properties.Resources.resources
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.csproj.GenerateResource.Cache
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.exe
+D:\Avb_project\W_projectWork\StockControlManagement\StockControlManagement\obj\Debug\StockControlManagement.pdb
